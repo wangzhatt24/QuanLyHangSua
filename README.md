@@ -5,6 +5,7 @@ PHP - MySQL - Mô Hình MVC
 Chức năng: 
 
 Quản lý sản phẩm: Đọc thêm xóa sửa
+
 Quản lý công ty: Đọc thêm xóa sửa
 
 Giao diện người dùng
